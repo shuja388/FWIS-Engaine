@@ -1,4 +1,4 @@
-# 🍏 FWIS: Food Waste Intelligence System
+# 🍏 FWIS: Fruit Waste Intelligence System
 
 An AI-powered inbound shipment prediction and logistics optimization engine. FWIS helps warehouse operators and supply chain managers automatically assess the quality of inbound produce shipments, predict batch waste percentages, calculate remaining shelf life (RSL), and instantly route stock using intelligent action directives.
 
